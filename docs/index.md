@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Making KeyChain better
+Keychain could be so much better. Some of us use KeyChain every day, and we're more or less satisfied with it's performance, because we now have enough muscle memory to see pasts its quirks.
 
-You can use the [editor on GitHub](https://github.com/pauprideaux/piano/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## What is KeyChain
+KeyChain is Apple's password management system. Users store passwords, authentication credentials, and other sensitive information in either iCloud or on a local device.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Most Apple users don't understand how to use KeyChain. Don't believe me? Ask the Mac user sitting next to you how to look up the password that they are using to connect to a WiFi. 9
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pauprideaux/piano/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## What are KeyChain's goals?
+I'm not affiliated with Apple, but I'd like to think that the goals for KeyChain are:
+1. Keep users secure
+2. Make signing into
